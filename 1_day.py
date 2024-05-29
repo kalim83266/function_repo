@@ -58,6 +58,12 @@ print(list3)
 list3.reverse()
 print(list3)
 
+abcd=56
+print(abcd) 
+g=66
+print(g)
+
+
 
 
 
